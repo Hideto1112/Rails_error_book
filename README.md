@@ -43,4 +43,4 @@ $ rails server
 * **email** : sample@email.com
 * **password** : password
 
-2月14日復習
+2月14日復習# Rails_error_book
