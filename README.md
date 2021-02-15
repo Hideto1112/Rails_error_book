@@ -44,3 +44,4 @@ $ rails server
 * **password** : password
 
 2月14日復習# Rails_error_book
+2月16日Git sshに変更
